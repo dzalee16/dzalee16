@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mladen Jovic.
 - 👀 I’m interested in Front-End Tech, JavaScript 💞️!!!
-- 🌱 I’m currently learning React, TypeScript.
+- 🌱 I’m currently learning Vue.js.
 - 📫 To reach me please send me a message: mladen.jovic93@yahoo.com
 
 <!---
